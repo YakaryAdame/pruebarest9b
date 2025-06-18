@@ -1,0 +1,4 @@
+//Evitar que estos archivos se guarden en git
+
+node_modules
+configuracion.js
